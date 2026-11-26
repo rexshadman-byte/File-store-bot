@@ -1,0 +1,4 @@
+# REX FILE STORE BOT
+# Compatible with the async ApplicationBuilder-based python-telegram-bot code.
+
+python-telegram-bot>=20.0,<23.0
